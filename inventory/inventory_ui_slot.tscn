@@ -1,0 +1,20 @@
+[gd_scene load_steps=2 format=3 uid="uid://cqab71irj4wou"]
+
+[ext_resource type="Texture2D" uid="uid://d26wb53jplajr" path="res://art/inventory/slot.png" id="1_qnh17"]
+
+[node name="Control" type="Control"]
+layout_mode = 3
+anchor_right = 0.305
+anchor_bottom = 0.442
+offset_right = -0.200012
+offset_bottom = -0.12001
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="NinePatchRect" type="NinePatchRect" parent="."]
+texture_filter = 1
+texture_repeat = 1
+layout_mode = 0
+offset_right = 194.0
+offset_bottom = 158.0
+texture = ExtResource("1_qnh17")
