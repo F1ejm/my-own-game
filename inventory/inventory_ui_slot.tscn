@@ -2,7 +2,7 @@
 
 [ext_resource type="Texture2D" uid="uid://d26wb53jplajr" path="res://art/inventory/slot.png" id="1_qnh17"]
 
-[node name="Control" type="Control"]
+[node name="Slot" type="Control"]
 layout_mode = 3
 anchor_right = 0.305
 anchor_bottom = 0.442
@@ -18,3 +18,5 @@ layout_mode = 0
 offset_right = 194.0
 offset_bottom = 158.0
 texture = ExtResource("1_qnh17")
+
+[node name="Sprite2D" type="Sprite2D" parent="NinePatchRect"]
