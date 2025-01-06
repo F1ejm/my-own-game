@@ -1,0 +1,6 @@
+[gd_resource type="Resource" script_class="Slot" load_steps=2 format=3 uid="uid://c2ryv6064wvgc"]
+
+[ext_resource type="Script" path="res://resourses/slot/Slot.gd" id="1_35w2j"]
+
+[resource]
+script = ExtResource("1_35w2j")

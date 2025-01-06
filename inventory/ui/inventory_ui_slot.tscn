@@ -6,8 +6,8 @@
 layout_mode = 3
 anchor_right = 0.305
 anchor_bottom = 0.442
-offset_right = -0.200012
-offset_bottom = -0.12001
+offset_right = -156.2
+offset_bottom = -127.12
 grow_horizontal = 2
 grow_vertical = 2
 
@@ -15,8 +15,8 @@ grow_vertical = 2
 texture_filter = 1
 texture_repeat = 1
 layout_mode = 0
-offset_right = 194.0
-offset_bottom = 158.0
+offset_right = 24.0
+offset_bottom = 22.0
 texture = ExtResource("1_qnh17")
 
 [node name="Sprite2D" type="Sprite2D" parent="NinePatchRect"]
