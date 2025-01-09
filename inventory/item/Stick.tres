@@ -1,10 +1,10 @@
 [gd_resource type="Resource" script_class="item" load_steps=3 format=3 uid="uid://bqo6byob62vvc"]
 
 [ext_resource type="Script" path="res://resourses/item/item_script.gd" id="1_0747m"]
-[ext_resource type="Texture2D" uid="uid://dhtssaifs5fat" path="res://art/inventory/stick-icon.png" id="2_mup3o"]
+[ext_resource type="Texture2D" uid="uid://dhtssaifs5fat" path="res://art/item/stick-icon.png" id="1_v80e0"]
 
 [resource]
 script = ExtResource("1_0747m")
-texture = ExtResource("2_mup3o")
-Name = "Stick"
+Sprite = ExtResource("1_v80e0")
+name = "stick#1"
 ammount_max = 5
